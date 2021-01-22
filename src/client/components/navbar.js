@@ -113,22 +113,6 @@ export default class navbar extends Component {
 
                             }
                             
-
-
-
-                            <div className="sticky top-0 hidden sm:block sm:ml-6">
-                            <div class="flex space-x-4">	                            <div className="flex space-x-4">
-
-                         
-
-
-                            
-                            </div>	                            
-                        </div>	                        
-                        </div>
-
-
-
                         </div>
                         </div>
                     </div>
